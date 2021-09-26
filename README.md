@@ -11,7 +11,7 @@ Some examples can be found in this repository:
 * [Server with private networking only](https://github.com/v0112358/terraform-upcloud-server/tree/master/examples/server-with-private-networking-only)
 * [Server with public and private networking](https://github.com/v0112358/terraform-upcloud-server/tree/master/examples/server-with-public-and-private-networking)
 * [Server with public networking](https://github.com/v0112358/terraform-upcloud-server/tree/master/examples/server-with-public-networking)
-* [Server with rolling mainteance](https://github.com/v0112358/terraform-upcloud-server/tree/master/examples/server-with-rolling-maintenance)
+* [Server with rolling maintenance](https://github.com/v0112358/terraform-upcloud-server/tree/master/examples/server-with-rolling-maintenance)
 
 If you're looking to try Upcloud out, [sign up here](https://upcloud.com/signup/?promo=ZH2242)
 and get $25 free credit.
@@ -36,22 +36,7 @@ In case you missed it: Upcloud support [Network Transfer Pool](https://upcloud.c
 See [Upcloud Pricing](https://upcloud.com/pricing/) for more.
 
 <!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
-## Providers
 
-| Name | Version |
-|------|---------|
-| Upcloud | n/a |
-
-## Inputs
-
-| Name | Description | Type | Default | Required |
-|------|-------------|------|---------|:-----:|
-
-
-## Outputs
-
-| Name | Description |
-|------|-------------|
 
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 
