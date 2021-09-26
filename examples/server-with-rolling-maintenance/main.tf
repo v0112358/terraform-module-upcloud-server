@@ -41,7 +41,7 @@ module "server_mongodb" {
   private_subnet     = upcloud_network.upcloud_network_internal.id
 
   rolling_maintenance = {
-    enable = true
+    enable       = true
     server_index = [1, 2]
     resize_plan  = "1xCPU-2GB"
   }

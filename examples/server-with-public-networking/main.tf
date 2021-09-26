@@ -14,7 +14,7 @@ provider "upcloud" {
 }
 
 module "server_nginx" {
-  source = "../../"
+  source         = "../../"
   zone           = "sg-sin1"
   server_count   = 1
   server_name    = "vm-dev-infra-nginx"
