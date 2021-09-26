@@ -1,0 +1,1 @@
+ip route replace default via 172.16.16.2 dev eth0 && echo 'ip route replace default via 172.16.16.2 dev eth0' >> /etc/rc.d/rc.local && chmod +x /etc/rc.d/rc.local
